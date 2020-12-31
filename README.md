@@ -34,6 +34,23 @@ Alternately, you can specify the branch you want to release:
 module.exports = require("@betahuhn/config").release("branch-name");
 ```
 
+Here are all the emojis which trigger a new release:
+
+**Major:**
+- :boom: = Introduce breaking changes
+
+**Minor:**
+- :sparkles: = Introduce new features
+
+**Patch:**
+- :bug: = Bug fix
+- :ambulance: = Critical hotfix
+- :lock: = Fix security issues
+- :recycle: = Refactor code
+- :lipstick: = Add/update the UI and style files
+- :alien: = Update code due to external API changes
+- :package: = Add/Update compiled files or package
+
 ## 📄 License
 
 [MIT](./LICENSE) © [Maximilian Schiller](https://github.com/betahuhn) and [Koj](https://koj.co)
