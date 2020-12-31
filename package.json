@@ -1,7 +1,7 @@
 {
   "name": "@betahuhn/config",
   "version": "1.0.0",
-  "description": "Common configuration files for BetaHuhn's projects",
+  "description": "Common configuration files for my projects",
   "files": [
     "dist"
   ],
