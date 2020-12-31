@@ -1,0 +1,43 @@
+{
+  "name": "@betahuhn/config",
+  "version": "0.0.1",
+  "description": "Common configuration files for BetaHuhn's projects",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && npm run copy-helpers",
+    "copy-helpers": "mkdir -p dist/config/helpers && cp -r config/helpers dist/config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betahuhn/config.git"
+  },
+  "keywords": [
+    "MIT"
+  ],
+  "author": "Maximilian Schiller <hello@mxis.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betahuhn/config/issues"
+  },
+  "homepage": "https://github.com/betahuhn/config#readme",
+  "devDependencies": {
+    "@types/dateformat": "^3.0.1",
+    "@types/eslint": "^7.2.6",
+    "@types/semantic-release": "^17.1.0",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.1.1",
+    "@semantic-release/npm": "^7.0.6",
+    "dateformat": "^3.0.3",
+    "semantic-release": "^17.3.1",
+    "semantic-release-gitmoji": "^1.3.4"
+  }
+}
