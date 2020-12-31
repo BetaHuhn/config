@@ -77,7 +77,7 @@ const options: Linter.Config = {
 		'object-curly-spacing': [ 2, 'always' ],
 		'operator-linebreak': [ 2, 'after' ],
 		'func-style': 0,
-		'new-cap': 2,
+		'new-cap': 0,
 		'no-var': 2,
 		'no-labels': 2,
 		'no-implicit-coercion': 2,
