@@ -1,3 +1,12 @@
+## [v1.1.0] - 2021-04-13
+
+[Release notes](https://github.com/betahuhn/config/releases/tag/v1.1.0) · [Compare](https://github.com/betahuhn/config/compare/v1.0.2...v1.1.0) · [Tag](https://github.com/betahuhn/config/tree/v1.1.0) · Archive ([zip](https://github.com/betahuhn/config/archive/v1.1.0.zip) · [tar.gz](https://github.com/betahuhn/config/archive/v1.1.0.tar.gz))
+
+### New features
+
+- [`824150d`](https://github.com/betahuhn/config/commit/824150d)  Add vue eslint config
+- [`253559c`](https://github.com/betahuhn/config/commit/253559c)  Add ts eslint config
+
 ## [v1.0.2] - 2020-12-31
 
 [Release notes](https://github.com/betahuhn/config/releases/tag/v1.0.2) · [Compare](https://github.com/betahuhn/config/compare/v1.0.1...v1.0.2) · [Tag](https://github.com/betahuhn/config/tree/v1.0.2) · Archive ([zip](https://github.com/betahuhn/config/archive/v1.0.2.zip) · [tar.gz](https://github.com/betahuhn/config/archive/v1.0.2.tar.gz))
