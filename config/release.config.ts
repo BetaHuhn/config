@@ -65,7 +65,7 @@ const options: Options = {
     [
       "@semantic-release/git",
       {
-        assets: ["CHANGELOG.md", "package.json", "package-lock.json"],
+        assets: ["CHANGELOG.md", "package.json", "package-lock.json", ...(process.env.COMMIT_ASSETS ? process.env.COMMIT_ASSETS.split(',').map(x => x.trim()) : [] )],
         message: ":bookmark: Release v${nextRelease.version} [skip ci]",
       },
     ],
