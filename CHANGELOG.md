@@ -1,3 +1,11 @@
+## [v1.2.0] - 2021-09-06
+
+[Release notes](https://github.com/betahuhn/config/releases/tag/v1.2.0) · [Compare](https://github.com/betahuhn/config/compare/v1.1.0...v1.2.0) · [Tag](https://github.com/betahuhn/config/tree/v1.2.0) · Archive ([zip](https://github.com/betahuhn/config/archive/v1.2.0.zip) · [tar.gz](https://github.com/betahuhn/config/archive/v1.2.0.tar.gz))
+
+### New features
+
+- [`63f8361`](https://github.com/betahuhn/config/commit/63f8361)  Add COMMIT_ASSETS option
+
 ## [v1.1.0] - 2021-04-13
 
 [Release notes](https://github.com/betahuhn/config/releases/tag/v1.1.0) · [Compare](https://github.com/betahuhn/config/compare/v1.0.2...v1.1.0) · [Tag](https://github.com/betahuhn/config/tree/v1.1.0) · Archive ([zip](https://github.com/betahuhn/config/archive/v1.1.0.zip) · [tar.gz](https://github.com/betahuhn/config/archive/v1.1.0.tar.gz))
